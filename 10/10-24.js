@@ -7,4 +7,4 @@ const obj = {
   }
 };
 
-obj.sayHi(); // Hi! Lee
+obj.sayHi(); // Hi! Lee 
